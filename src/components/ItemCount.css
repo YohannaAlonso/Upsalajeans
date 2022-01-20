@@ -1,0 +1,23 @@
+.estiloBoton {
+    background-color: #61DAFA;
+    box-shadow: 0px 5px 25px rgba(97, 218, 250, 0.5);
+    border-color: black;
+    display:inline-flex;
+   
+    cursor: pointer;
+    font-size: 50px;
+   
+    font-weight: bold;
+    color: #FAFAFA;
+    
+    justify-content:center;
+    align-items:center;
+    text-align: center;
+    height: 64px;
+    width: 64px;
+  
+    transform: rotate(0);
+    transition: .3s ease;
+  }
+  
+ 
